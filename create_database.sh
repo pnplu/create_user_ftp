@@ -1,3 +1,3 @@
 #!/bin/bash
 
-mysql -u "root" -p "sss2017"
+mysql --user "root" --password "sss2017"
