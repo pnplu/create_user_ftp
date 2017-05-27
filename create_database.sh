@@ -1,4 +1,3 @@
 #!/bin/bash
 
-mysql -u root -p
-sss2017
+mysql -u "root" -p "sss2017"
