@@ -1,4 +1,3 @@
 #!/bin/bash
 
-mysql --user=root --password=sss2017 << eof
-eof
+mysql -u "root" -p "sss2017"
