@@ -2,11 +2,12 @@
 #update os
 sudo apt-get update
 #add user
-useradd -d /var/www/html/u/13580180 -s /bin/false u13580180
+useradd -d /var/www/html/u/13580182 -s /bin/false 13580182
 #create folder
-mkdir -p /var/www/html/u/13580180
+mkdir -p /var/www/html/u/13580182
 #Permission User to access folder
-sudo chown -R test_ftp /var/www/html/u/13580180/
+sudo chown -R test_ftp /var/www/html/u/13580182/
 #Create Password
-sudo passwd u13580180
-# 9Ntc&OQIfO
+sudo passwd u13580182
+echo "Kz1<Sp0A(T"
+echo "Kz1<Sp0A(T"
